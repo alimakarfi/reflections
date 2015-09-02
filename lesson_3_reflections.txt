@@ -1,3 +1,7 @@
 Question 1: When will you want to create a remote repository rather than keeping all your work local?
 
 Answer: when the remote repository contains information totally independent of my project.
+
+Question 2:	Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository
+
+Answer:	so that Git doesn't pull changes when you are working on a file. it is better to commit your changes before making a pull request.
