@@ -5,3 +5,7 @@ Answer: when the remote repository contains information totally independent of m
 Question 2:	Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository
 
 Answer:	so that Git doesn't pull changes when you are working on a file. it is better to commit your changes before making a pull request.
+
+Question 3:	Describe the differences between forks, clones and branches. When would you use one instead of the other
+
+Answer:	forks can only be used to clone between remote directories, clones can be done locally or from a remote directory to local directory, branch is simply creating another part on your commits either locally or remotely.
