@@ -17,3 +17,7 @@ Answer:	so that you can work with the latest update to the project without inter
 Question 5:	How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Answer:	I would collaborate using mail. Git and GitHub would definately be easier.
+
+Question 6:	When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Answer:	when implementing a feature or trying out something new so that your master branch remains intact. A different branch provides the benefit of flexibility without breaking the master while working directly on master is dangerous.
