@@ -13,3 +13,7 @@ Answer:	forks can only be used to clone between remote directories, clones can b
 Quesiton 4:	What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Answer:	so that you can work with the latest update to the project without internet connection.
+
+Question 5:	How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Answer:	I would collaborate using mail. Git and GitHub would definately be easier.
